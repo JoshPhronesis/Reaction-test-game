@@ -1,0 +1,25 @@
+#shape{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	display: none;
+	position: relative;
+}
+body{
+	height: 650px;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	border-radius: 5px;	
+	font-family: sans-serif;
+	background-color: #E0FFFF;
+
+}
+#container{
+	margin: 0 auto;
+	width: 1000px;		
+}
+.center{
+	margin: 5 auto;
+}
